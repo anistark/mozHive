@@ -17,6 +17,7 @@
 	</noscript>
 </head>
 <?php
+	require_once("./cube.php");
 	require_once("./header.php");
 	echo $header;
 	require_once("./widget.php");
